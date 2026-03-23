@@ -1,4 +1,4 @@
-# Analyse-de-Qualit-de-
+# ANALYSE DE LA QUALITÉ DE L'AIR.
 Analyse d’un an de données de qualité de l’air issues de capteurs chimiques MOS, incluant EDA, analyse temporelle, modélisation prédictive des polluants (CO, NOx, NO₂, benzène) et comparaison avec un analyseur certifié.
 <p align="center">
   <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" width="18%">
